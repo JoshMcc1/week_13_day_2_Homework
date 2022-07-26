@@ -20,11 +20,11 @@ public class Car {
   private GearBox gearBox;
   
 }
- #8.
- Composition is where objects  make up other objects. aggregation is objects being apart of another object.
- #9.
- increases re-usability of code, increases testability of code, change member objects at run time to chagne behaviours of program
- #10. 
- They get removed as well
- #11. 
- they exist independently.
+# 8.
+Composition is where objects  make up other objects. aggregation is objects being apart of another object.
+# 9.
+increases re-usability of code, increases testability of code, change member objects at run time to chagne behaviours of program
+# 10. 
+They get removed as well
+# 11. 
+they exist independently.
